@@ -9,3 +9,8 @@ age = sys.argv[2]
 print("Hi " + name + " You are " + age + " years old!")
 print(sys.argv[1])
 print(sys.argv[2])
+
+def helloWorld():
+    print("Hello world!")
+
+helloWorld()
